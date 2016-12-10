@@ -1,0 +1,16 @@
+{
+  "name": "frisby-egghead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_box.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "immutable-ext": "^1.0.8"
+  }
+}
